@@ -1,7 +1,7 @@
 # Define config variables
 variable "labelPrefix" {
   type        = string
-  description = "Your college username. This will form the beginning of various resource names."
+  description = "male0120"
 }
 
 variable "region" {
